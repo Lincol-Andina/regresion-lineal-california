@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.pyo
+.scikit_learn_data/
+.venv/
+venv/
+env/
+*.egg-info/
+dist/
+build/
